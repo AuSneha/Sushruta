@@ -1,0 +1,24 @@
+[
+  {
+    "id": "alert-001",
+    "district": "Rampur",
+    "pincode": "244901",
+    "disease": "Dengue",
+    "severity": "moderate",
+    "message_en": "Dengue cases rising in Rampur district. Remove stagnant water near your home and use mosquito nets. Visit PHC Rampur if you have high fever with body pain.",
+    "message_hi": "रामपुर जिले में डेंगू के मामले बढ़ रहे हैं। घर के पास जमा पानी हटाएं और मच्छरदानी का प्रयोग करें। तेज बुखार और शरीर दर्द होने पर पीएचसी रामपुर जाएं।",
+    "published_at": "2026-07-28T09:00:00",
+    "published_by": "admin-demo"
+  },
+  {
+    "id": "alert-002",
+    "district": "Sitapur",
+    "pincode": "261001",
+    "disease": "Seasonal Flu",
+    "severity": "low",
+    "message_en": "A mild rise in seasonal flu cases has been noted in Sitapur. Cover your mouth while coughing and wash hands frequently.",
+    "message_hi": "सीतापुर में मौसमी फ्लू के मामलों में हल्की वृद्धि देखी गई है। खांसते समय मुंह ढकें और बार-बार हाथ धोएं।",
+    "published_at": "2026-07-30T09:00:00",
+    "published_by": "admin-demo"
+  }
+]

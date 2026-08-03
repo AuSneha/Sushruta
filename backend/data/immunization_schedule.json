@@ -1,0 +1,16 @@
+[
+  {"vaccine": "BCG", "due_age_days": 0, "label_en": "BCG (at birth)", "label_hi": "बीसीजी (जन्म पर)"},
+  {"vaccine": "OPV-0", "due_age_days": 0, "label_en": "OPV-0 (at birth)", "label_hi": "ओपीवी-0 (जन्म पर)"},
+  {"vaccine": "Hep B-1", "due_age_days": 0, "label_en": "Hepatitis B-1 (at birth)", "label_hi": "हेपेटाइटिस बी-1 (जन्म पर)"},
+  {"vaccine": "OPV-1", "due_age_days": 42, "label_en": "OPV-1 (6 weeks)", "label_hi": "ओपीवी-1 (6 सप्ताह)"},
+  {"vaccine": "Penta-1", "due_age_days": 42, "label_en": "Pentavalent-1 (6 weeks)", "label_hi": "पेंटावेलेंट-1 (6 सप्ताह)"},
+  {"vaccine": "RVV-1", "due_age_days": 42, "label_en": "Rotavirus-1 (6 weeks)", "label_hi": "रोटावायरस-1 (6 सप्ताह)"},
+  {"vaccine": "OPV-2", "due_age_days": 70, "label_en": "OPV-2 (10 weeks)", "label_hi": "ओपीवी-2 (10 सप्ताह)"},
+  {"vaccine": "Penta-2", "due_age_days": 70, "label_en": "Pentavalent-2 (10 weeks)", "label_hi": "पेंटावेलेंट-2 (10 सप्ताह)"},
+  {"vaccine": "OPV-3", "due_age_days": 98, "label_en": "OPV-3 (14 weeks)", "label_hi": "ओपीवी-3 (14 सप्ताह)"},
+  {"vaccine": "Penta-3", "due_age_days": 98, "label_en": "Pentavalent-3 (14 weeks)", "label_hi": "पेंटावेलेंट-3 (14 सप्ताह)"},
+  {"vaccine": "MR-1", "due_age_days": 270, "label_en": "Measles-Rubella-1 (9 months)", "label_hi": "खसरा-रूबेला-1 (9 महीने)"},
+  {"vaccine": "MR-2", "due_age_days": 480, "label_en": "Measles-Rubella-2 (16 months)", "label_hi": "खसरा-रूबेला-2 (16 महीने)"},
+  {"vaccine": "DPT Booster-1", "due_age_days": 480, "label_en": "DPT Booster-1 (16-24 months)", "label_hi": "डीपीटी बूस्टर-1 (16-24 महीने)"},
+  {"vaccine": "DPT Booster-2", "due_age_days": 1825, "label_en": "DPT Booster-2 (5-6 years)", "label_hi": "डीपीटी बूस्टर-2 (5-6 वर्ष)"}
+]

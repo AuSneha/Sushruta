@@ -1,0 +1,62 @@
+[
+  {
+    "id": "kb-001",
+    "topic": "dengue_prevention",
+    "language": "en",
+    "question_variants": ["how to prevent dengue", "dengue prevention", "stop dengue"],
+    "answer": "Prevent dengue by removing stagnant water around your home (coolers, pots, tyres), using mosquito nets/repellent, and wearing full-sleeve clothes. Dengue spreads through Aedes mosquito bites, mostly in the daytime.",
+    "source": "CDC / MoHFW guidelines",
+    "updated_by": "seed",
+    "updated_at": "2026-07-01"
+  },
+  {
+    "id": "kb-002",
+    "topic": "dengue_prevention",
+    "language": "hi",
+    "question_variants": ["डेंगू से कैसे बचें", "डेंगू बचाव"],
+    "answer": "घर के आसपास पानी जमा न होने दें (कूलर, गमले, टायर), मच्छरदानी/रिपेलेंट का प्रयोग करें और पूरी बांह के कपड़े पहनें। डेंगू एडीज मच्छर के काटने से फैलता है, ज्यादातर दिन में।",
+    "source": "MoHFW दिशानिर्देश",
+    "updated_by": "seed",
+    "updated_at": "2026-07-01"
+  },
+  {
+    "id": "kb-003",
+    "topic": "vaccination_general",
+    "language": "en",
+    "question_variants": ["why vaccinate", "importance of vaccination", "vaccine benefits"],
+    "answer": "Vaccination protects your child from serious diseases like polio, measles and diphtheria. It is safe, free at government centres, and following the schedule on time gives the best protection.",
+    "source": "MoHFW / CoWIN",
+    "updated_by": "seed",
+    "updated_at": "2026-07-01"
+  },
+  {
+    "id": "kb-004",
+    "topic": "vaccination_general",
+    "language": "hi",
+    "question_variants": ["टीकाकरण क्यों जरूरी है", "वैक्सीन के फायदे"],
+    "answer": "टीकाकरण आपके बच्चे को पोलियो, खसरा और डिप्थीरिया जैसी गंभीर बीमारियों से बचाता है। यह सुरक्षित है, सरकारी केंद्रों पर मुफ्त है, और समय पर टीकाकरण सबसे अच्छी सुरक्षा देता है।",
+    "source": "MoHFW / CoWIN",
+    "updated_by": "seed",
+    "updated_at": "2026-07-01"
+  },
+  {
+    "id": "kb-005",
+    "topic": "covid_myth",
+    "language": "en",
+    "question_variants": ["covid vaccine causes infertility", "vaccine makes you infertile", "5g causes covid"],
+    "answer": "This is FALSE. There is no scientific evidence that COVID-19 vaccines cause infertility, and 5G networks do not spread or cause the virus. These are known rumors debunked by WHO and MoHFW.",
+    "source": "WHO myth-busters",
+    "updated_by": "seed",
+    "updated_at": "2026-07-01"
+  },
+  {
+    "id": "kb-006",
+    "topic": "handwashing",
+    "language": "en",
+    "question_variants": ["how to prevent diarrhea", "hand hygiene", "clean water"],
+    "answer": "Wash hands with soap before eating and after using the toilet, drink boiled or filtered water, and keep food covered. This prevents most diarrheal diseases.",
+    "source": "WHO / CDC guidelines",
+    "updated_by": "seed",
+    "updated_at": "2026-07-01"
+  }
+]

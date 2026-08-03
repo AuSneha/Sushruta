@@ -1,0 +1,6 @@
+[
+  {"district": "Rampur", "name": "PHC Rampur", "phone": "01452-250000", "type": "Primary Health Centre"},
+  {"district": "Sitapur", "name": "District Hospital Sitapur", "phone": "05862-250000", "type": "District Hospital"},
+  {"district": "Barabanki", "name": "CHC Barabanki", "phone": "05248-250000", "type": "Community Health Centre"},
+  {"district": "default", "name": "National Health Helpline", "phone": "1075", "type": "Helpline"}
+]
